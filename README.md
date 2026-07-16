@@ -5,4 +5,4 @@ then add README.md and .gitignore file
 make changes in these file and commit these files
 and the end clone the repository in anotber folder
 
-now the task second is to modify the readme me brach after creating branch
+now the task second is to update the readme me brach after creating branch
